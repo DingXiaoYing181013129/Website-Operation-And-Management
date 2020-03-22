@@ -17,9 +17,9 @@
 对于每个网页，提供简短的标题，以至于描述页面内容并将其与其它页面区分。页面标题通常与页面主要标题相同。把独特以及最相关的信息放在首位；例如：将页面名称放在组织名称之前。对于多步骤过程的页面，请在页面标题中包括现在的步骤。
 
 **示例：页面标题**
-* ***主页标题：***Space Teddy Inc.
-* ***页面名称后面跟着组织名称：***Latest News • Space Teddy Inc.
-* ***包括流程中步骤的页面名称：***Buy Your Bear (Step 1 of 3) • Space Teddy Inc.
+* ***主页标题：*** Space Teddy Inc.
+* ***页面名称后面跟着组织名称：*** Latest News • Space Teddy Inc.
+* ***包括流程中步骤的页面名称：*** Buy Your Bear (Step 1 of 3) • Space Teddy Inc.
 
 ![](images/原则1.png)
 
@@ -32,6 +32,8 @@
 * ***标题缺乏***（下图左）
 * ***使用标题和副标题***（下图右）
 
+![](images/vs.png)
+
 ![](images/原则2.png)
 
 ----
@@ -40,8 +42,8 @@
 写链接文本，用来描述链接目标的内容。避免用模棱两可的链接文本，例如“单击此处”或“阅读更多”。指示有关链接目标相关的信息，例如：文档的类型和大小，又例如：“建议文档（RTF，20MB）”。
 
 **示例：使用链接文本来描述目标页面**
-* ***无信息：***有关设备独立性的更多信息，[请单击此处](https://baike.baidu.com/item/%E8%AE%BE%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%A7/7095927?fr=aladdin)。
-* ***有意义的信息：***阅读[有关设备独立性](https://baike.baidu.com/item/%E8%AE%BE%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%A7/7095927?fr=aladdin)的更多信息。
+* ***无信息：*** 有关设备独立性的更多信息，[请单击此处](https://baike.baidu.com/item/%E8%AE%BE%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%A7/7095927?fr=aladdin)。
+* ***有意义的信息：*** 阅读[有关设备独立性](https://baike.baidu.com/item/%E8%AE%BE%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%A7/7095927?fr=aladdin)的更多信息。
 
 ![](images/原则3.png)
 
